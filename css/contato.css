@@ -55,23 +55,32 @@ button {
     font-weight: bold;
 }
 
-section p {
+section p{
     color: gray;
-    margin: 10px 0;
+    margin: 10px;
 }
-
-#privacidade {
+#privacidade{
     font-size: 12px;
     margin-top: 50px;
 }
-
-section h2 {
+section h2{
     font-size: 23px;
     color: gray;
     font-weight: lighter;
     margin: 60px 0 20px 0;
 }
-
-#redes a {
+#redes a{
     margin-right: 30px;
+}
+#youtube{
+    margin: 0 ;
+    width: 100px;
+}
+#instagram{
+    margin: auto;
+    width: 150px;
+}
+#facebook{
+    margin: 20px;
+    width: 50px;
 }
